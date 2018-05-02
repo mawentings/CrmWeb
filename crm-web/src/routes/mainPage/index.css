@@ -1,0 +1,17 @@
+.mainPage_header {
+    background-color: #d9d9d9;
+    border-bottom: 1px solid #333333;
+}
+
+.mainPage_Content {
+    padding-top: 20px;
+}
+
+.mainPage_Row {
+    margin-top: 20px;
+}
+
+.gridStyle {
+    width: 25%;
+    textAlign: center;
+}
